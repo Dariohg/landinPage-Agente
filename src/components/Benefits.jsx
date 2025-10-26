@@ -4,8 +4,8 @@ import { motion } from 'framer-motion';
 const benefitsList = [
     {
         icon: <IoSyncCircleSharp />,
-        title: "Adaptación en Tiempo Real",
-        description: "Detecta frustración y activa refuerzos pedagógicos automáticos, adaptando el contenido al instante."
+        title: "Alertas Visuales Contextuales",
+        description: "Al detectar confusión o distracción, activa retroalimentación visual inmediata, sugiriendo al usuario 'revisar la lección' o 'concentrarse en la pantalla'."
     },
     {
         icon: <IoAnalyticsSharp />,
